@@ -13,7 +13,7 @@
 </picture>
 
 - 🔭 Cursando DS pela ETEC.
-- 🌱 Estudando C/C++, JavaScript, Modelagem de dados, linux entre muitas outas coisas!
+- 🌱 Estudando C/C++, JavaScript, Modelagem de dados, Linux, entre muitas outas coisas!
 - 📫 Contate-me: lucas.felixandrade@hotmail.com.br  
 
 
