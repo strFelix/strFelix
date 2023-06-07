@@ -12,8 +12,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=flexini&show_icons=true" />
 </picture>
 
-- 🔭 Cursando DS pela ETEC
-- 🌱 Estudando C/C++, JavaScript e Modelagem de dados
+- 🔭 Cursando DS pela ETEC.
+- 🌱 Estudando C/C++, JavaScript, Modelagem de dados, linux entre muitas outas coisas!
 - 📫 Contate-me: lucas.felixandrade@hotmail.com.br  
 
 
