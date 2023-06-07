@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2>Olá! Eu sou o Lucas, um aspirante a dev.</h2> 
 
-<!--
-**strFelix/strFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=flexini&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=flexini&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=flexini&show_icons=true" />
+</picture>
 
-Here are some ideas to get you started:
+- 🔭 Cursando DS pela ETEC
+- 🌱 Estudando C/C++, JavaScript e Modelagem de dados
+- 📫 Contate-me: lucas.felixandrade@hotmail.com.br  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
