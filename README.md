@@ -12,6 +12,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=strFelix&show_icons=true" />
 </picture>
 
+![Snake animation](https://github.com/strFelix/strFelix/blob/output/github-contribution-grid-snake.svg)
+
 - 🔭 Cursando DS pela ETEC.
 - 🌱 Estudando C/C++, JavaScript, Modelagem de dados, Linux, entre muitas outas coisas!
 - 📫 Contate-me: lucas.felixandrade@hotmail.com.br  
