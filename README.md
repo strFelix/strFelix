@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas 👋🏼 ## 
+## Oi! 👋🏼 Eu sou o Lucas ## 
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=strFelix&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
@@ -15,4 +15,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 </div>
-- 🔭 Cursando DS pela ETEC.
+- 🔭 Cursando Desenvolvimento de Sistemas pela ETEC.
+<hr>
