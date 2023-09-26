@@ -1,7 +1,6 @@
 <h2 align="center">Oi 👋🏽 Eu sou o Lucas!</h2>
 
 <div align="center">
-  <br>
   <a href="https://github.com/strFelix">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=strfelix&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strfelix&layout=compact&langs_count=7&theme=dark" />
