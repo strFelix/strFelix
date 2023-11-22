@@ -12,6 +12,12 @@
  Currently studying at ETEC :green_heart: <br>
  Ambition to finish my training and apply my skills in the market :rocket:
 </div>
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/Lucas%20Felix-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-felix-andrade/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucas.felixandrade@hotmail.com.br)
+[![Discord](https://img.shields.io/badge/-strFelix-7289da?style=flat-square&logo=Discord&logoColor=white)](https://discord.com)
+![View Counter](https://komarev.com/ghpvc/?username=strFelix&style=flat-square)
 
 <hr>
 <h3>Skills 💜</h3>
