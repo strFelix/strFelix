@@ -20,16 +20,16 @@
 ![View Counter](https://komarev.com/ghpvc/?username=strFelix&style=flat-square)
 
 <hr>
-<h3>Skills 💜</h3>
+<h3>Toolbox 🧰</h3>
 
-#### Backend ➔
+>#### Backend ➜
 ![C#](https://img.shields.io/badge/c%23-%234B275F.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-#### Frontend ➔
+>#### Frontend ➜
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%2300C4CC.svg?style=for-the-badge&logo=figma&logoColor=white)
