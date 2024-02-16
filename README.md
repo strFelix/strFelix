@@ -9,8 +9,9 @@
 <h3>About Me ✨</h3>
 <div align="left" >
  Software developer, from São Paulo! Stacks focused on backend development. <br>
+ Hardware enthusiast :floppy_disk:
  Currently studying at ETEC :green_heart: <br>
- Ambition to finish my training and apply my skills in the market :rocket:
+ Training and apply my skills in the market :rocket: <br>
 </div>
 <br>
 
