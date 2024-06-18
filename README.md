@@ -11,7 +11,6 @@
  Software developer, from São Paulo! Stacks focused on backend development. <br>
  Hardware enthusiast :floppy_disk: <br>
  Currently studying at ETEC :green_heart: <br>
- Training and apply my skills in the market :rocket: <br>
 </div>
 <br>
 
