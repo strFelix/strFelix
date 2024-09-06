@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋🏽 i'am Lucas!</h2>
+<h2 align="center">Hi 👋🏽 I'am Lucas!</h2>
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=strFelix&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true" />
